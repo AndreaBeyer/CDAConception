@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mFubp7Tc9Y8p3j1DN3BcP2ToQjQmKKKc6EeeLvuHsuEP5djm0sxTmkR8gWMkY7yJiZ0z6ze7/j0ySg6koQNCdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\com.crm.bo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beyer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\beyer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

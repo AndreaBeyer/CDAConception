@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppBiblioteque", "ConsoleAppBiblioteque\ConsoleAppBiblioteque.csproj", "{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.crm.bo", "com.crm.bo\com.crm.bo.csproj", "{B46DB1A5-5050-4547-87B3-D134DB8F2741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46DB1A5-5050-4547-87B3-D134DB8F2741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46DB1A5-5050-4547-87B3-D134DB8F2741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46DB1A5-5050-4547-87B3-D134DB8F2741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46DB1A5-5050-4547-87B3-D134DB8F2741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F106FCCC-995C-4618-9EC9-AFC07FA24C70}
+	EndGlobalSection
+EndGlobal

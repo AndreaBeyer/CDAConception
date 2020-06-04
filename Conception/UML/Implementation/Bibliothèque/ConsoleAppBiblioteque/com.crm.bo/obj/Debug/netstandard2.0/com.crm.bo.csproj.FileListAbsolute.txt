@@ -1,0 +1,9 @@
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\bin\Debug\netstandard2.0\com.crm.bo.deps.json
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\bin\Debug\netstandard2.0\com.crm.bo.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\bin\Debug\netstandard2.0\com.crm.bo.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.csprojAssemblyReference.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.AssemblyInfoInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.AssemblyInfo.cs
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\com.crm.bo\obj\Debug\netstandard2.0\com.crm.bo.pdb

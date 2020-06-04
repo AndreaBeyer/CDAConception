@@ -1,0 +1,7 @@
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\obj\Debug\ConsoleAppBiblioteque.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\bin\Debug\ConsoleAppBiblioteque.exe.config
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\bin\Debug\ConsoleAppBiblioteque.exe
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\bin\Debug\ConsoleAppBiblioteque.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\obj\Debug\ConsoleAppBiblioteque.exe
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\obj\Debug\ConsoleAppBiblioteque.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\UML\Implementation\Bibliothèque\ConsoleAppBiblioteque\ConsoleAppBiblioteque\obj\Debug\ConsoleAppBiblioteque.csprojAssemblyReference.cache
