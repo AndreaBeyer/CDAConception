@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\com.crm.bo.csproj",
-      "projectName": "com.crm.bo",
-      "projectPath": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\com.crm.bo.csproj",
+      "projectUniqueName": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\ClassLibraryBibliotheque.csproj",
+      "projectName": "ClassLibraryBibliotheque",
+      "projectPath": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\ClassLibraryBibliotheque.csproj",
       "packagesPath": "C:\\Users\\beyer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\beyer\\Documents\\GitHub\\Conception\\CDAConception\\Conception\\UML\\Implementation\\Bibliothèque\\ConsoleAppBiblioteque\\com.crm.bo\\obj\\",
       "projectStyle": "PackageReference",

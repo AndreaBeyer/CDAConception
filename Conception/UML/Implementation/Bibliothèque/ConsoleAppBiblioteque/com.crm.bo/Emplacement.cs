@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassLibraryBibliothequeNameSpace;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,6 @@ namespace ConsoleAppBiblioteque
         private int niveau;
 
         private List<Ressource> ressources;
-
         public Emplacement(int travee, int etagere, int niveau, List<Ressource> ressources)
         {
             this.Travee = travee;

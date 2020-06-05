@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppBiblioteque", "ConsoleAppBiblioteque\ConsoleAppBiblioteque.csproj", "{67C7F5B2-18E6-462D-88DF-3C17C2F097B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.crm.bo", "com.crm.bo\com.crm.bo.csproj", "{B46DB1A5-5050-4547-87B3-D134DB8F2741}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryBibliotheque", "com.crm.bo\ClassLibraryBibliotheque.csproj", "{B46DB1A5-5050-4547-87B3-D134DB8F2741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
