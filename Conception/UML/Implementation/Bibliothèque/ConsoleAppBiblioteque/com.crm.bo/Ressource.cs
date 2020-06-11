@@ -18,29 +18,33 @@ namespace ClassLibraryBibliothequeNameSpace
         {
             this.titre = titre;
             this.caution = caution;
-            this.Emplacement = emplacement;
-            this.Exemplaires = exemplaires;
+            this.emplacement = emplacement;
+            this.exemplaires = exemplaires;
         }
 
         public Ressource(string titre, int caution, Emplacement emplacement)
         {
             this.titre = titre;
             this.caution = caution;
-            this.Emplacement = emplacement;
-            this.Exemplaires = new List<Exemplaire>();
+            this.emplacement = emplacement;
+            this.exemplaires = new List<Exemplaire>();
         }
 
         public Ressource()
         {
             this.titre = null;
             this.caution = 0;
-            this.Emplacement = null;
-            this.Exemplaires = null;
+            this.emplacement = null;
+            this.exemplaires = null;
+        }
+
+        public void AddExemplaire(Exemplaire exemplaire)
+        {
+            exemplaires.Add(exemplaire);
         }
 
         public string Titre { get => titre; set => titre = value; }
         public int Caution { get => caution; set => caution = value; }
         public Emplacement Emplacement { get => emplacement; set => emplacement = value; }
-        public List<Exemplaire> Exemplaires { get => exemplaires; set => exemplaires = value; }
     }
 }
