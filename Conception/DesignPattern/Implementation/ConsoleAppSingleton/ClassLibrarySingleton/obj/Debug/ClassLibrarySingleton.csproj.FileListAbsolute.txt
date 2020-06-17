@@ -1,0 +1,6 @@
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\bin\Debug\ClassLibrarySingleton.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\bin\Debug\ClassLibrarySingleton.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\obj\Debug\ClassLibrarySingleton.csprojAssemblyReference.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\obj\Debug\ClassLibrarySingleton.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\obj\Debug\ClassLibrarySingleton.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppSingleton\ClassLibrarySingleton\obj\Debug\ClassLibrarySingleton.pdb

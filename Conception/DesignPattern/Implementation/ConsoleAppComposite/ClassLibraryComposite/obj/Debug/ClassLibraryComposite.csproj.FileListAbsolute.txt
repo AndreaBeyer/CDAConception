@@ -1,0 +1,5 @@
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ClassLibraryComposite\bin\Debug\ClassLibraryComposite.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ClassLibraryComposite\bin\Debug\ClassLibraryComposite.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ClassLibraryComposite\obj\Debug\ClassLibraryComposite.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ClassLibraryComposite\obj\Debug\ClassLibraryComposite.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ClassLibraryComposite\obj\Debug\ClassLibraryComposite.pdb

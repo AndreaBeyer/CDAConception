@@ -1,0 +1,10 @@
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\bin\Debug\ConsoleAppComposite.exe.config
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\bin\Debug\ConsoleAppComposite.exe
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\bin\Debug\ConsoleAppComposite.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\obj\Debug\ConsoleAppComposite.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\obj\Debug\ConsoleAppComposite.exe
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\obj\Debug\ConsoleAppComposite.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\bin\Debug\ClassLibraryComposite.dll
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\bin\Debug\ClassLibraryComposite.pdb
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\obj\Debug\ConsoleAppComposite.csprojAssemblyReference.cache
+C:\Users\beyer\Documents\GitHub\Conception\CDAConception\Conception\DesignPattern\Implementation\ConsoleAppComposite\ConsoleAppComposite\obj\Debug\ConsoleAppComposite.csproj.CopyComplete
