@@ -1,0 +1,7 @@
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\bin\Debug\ConsoleAppVisitor.exe.config
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\bin\Debug\ConsoleAppVisitor.exe
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\bin\Debug\ConsoleAppVisitor.pdb
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\obj\Debug\ConsoleAppVisitor.csprojAssemblyReference.cache
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\obj\Debug\ConsoleAppVisitor.csproj.CoreCompileInputs.cache
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\obj\Debug\ConsoleAppVisitor.exe
+C:\Users\beyer\source\repos\ConsoleAppVisitor\ConsoleAppVisitor\obj\Debug\ConsoleAppVisitor.pdb

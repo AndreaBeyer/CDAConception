@@ -1,0 +1,7 @@
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\obj\Debug\Explorer.csprojAssemblyReference.cache
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\beyer\source\repos\ConsoleAppFileExplorer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
