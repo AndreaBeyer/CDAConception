@@ -1,0 +1,6 @@
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\bin\Debug\ConsoleAppVisitorEcommerce.exe.config
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\bin\Debug\ConsoleAppVisitorEcommerce.exe
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\bin\Debug\ConsoleAppVisitorEcommerce.pdb
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\obj\Debug\ConsoleAppVisitorEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\obj\Debug\ConsoleAppVisitorEcommerce.exe
+C:\Users\beyer\Documents\GitHub\DEMO_GIT\ConsoleAppVisitorEcommerce\ConsoleAppVisitorEcommerce\obj\Debug\ConsoleAppVisitorEcommerce.pdb

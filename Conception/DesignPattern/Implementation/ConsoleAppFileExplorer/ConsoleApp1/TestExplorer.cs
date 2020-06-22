@@ -10,7 +10,7 @@ namespace ConsoleAppExplorer
     {
         static void Main(string[] args)
         {
-            Dossier dossier = new Dossier("test");
+            Composite dossier = new Dossier("test");
             if (dossier.Repertorie())
             {
                 Console.WriteLine(dossier.Formate());
