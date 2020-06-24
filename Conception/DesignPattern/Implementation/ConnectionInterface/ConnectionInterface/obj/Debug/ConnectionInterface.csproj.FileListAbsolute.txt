@@ -1,0 +1,7 @@
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\bin\Debug\ConnectionInterface.exe.config
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\bin\Debug\ConnectionInterface.exe
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\bin\Debug\ConnectionInterface.pdb
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\obj\Debug\ConnectionInterface.csprojAssemblyReference.cache
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\obj\Debug\ConnectionInterface.csproj.CoreCompileInputs.cache
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\obj\Debug\ConnectionInterface.exe
+C:\Users\beyer\source\repos\ConnectionInterface\ConnectionInterface\obj\Debug\ConnectionInterface.pdb

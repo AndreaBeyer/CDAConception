@@ -1,0 +1,7 @@
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\bin\Debug\ConsoleAppDecoratorModeration.exe.config
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\bin\Debug\ConsoleAppDecoratorModeration.exe
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\bin\Debug\ConsoleAppDecoratorModeration.pdb
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\obj\Debug\ConsoleAppDecoratorModeration.csproj.CoreCompileInputs.cache
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\obj\Debug\ConsoleAppDecoratorModeration.exe
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\obj\Debug\ConsoleAppDecoratorModeration.pdb
+C:\Users\beyer\source\repos\ConsoleAppDecoratorModeration\ConsoleAppDecoratorModeration\obj\Debug\ConsoleAppDecoratorModeration.csprojAssemblyReference.cache
